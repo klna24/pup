@@ -1,6 +1,8 @@
 {
-  "kickMessages": [
+  "kickCommands": [
     "i gtg bec Mirtix is here",
-    "*sharts and moans"
+    "*sharts and moans",
+    "kick player and goodbye"
   ]
 }
+
